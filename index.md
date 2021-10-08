@@ -6,4 +6,4 @@ layout: home
 author_profile: true
 ---
 
-Hello, my name is Taha. Welcome.
+Hello, my name is Taha. Welcome to my personal website.
