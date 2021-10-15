@@ -4,6 +4,8 @@
 
 layout: home
 author_profile: true
+sidebar:
+  nav: "sidebar-list"
 ---
 
 Hello, my name is Taha. Welcome to my personal website.

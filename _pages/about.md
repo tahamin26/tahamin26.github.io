@@ -11,4 +11,5 @@ permalink: /about/
 - Yayan, U., Arslan, A. T., & Yucel, H. (2021). A Novel Method for SoH Prediction of Batteries Based on Stacked LSTM with Quick Charge Data. Applied Artificial Intelligence, 35(6), 421-439. [*DOI*](https://doi.org/10.1080/08839514.2021.1901033)
 - Arslan, A. T., & Seke, E. (2019). Face depth estimation with conditional generative adversarial networks. IEEE Access, 7, 23222-23231. [*DOI*](https://doi.org/10.1109/ACCESS.2019.2898705)
 
-
+## Book Chapters
+- Yayan, U., Arslan, A.T., Yücel, H., Gençtürk, H. (2020). Seçkin Yayıncılık. *ROS ile Robot Programlama (Robot İşletim Sistemi) : Kavram - Tasarım - Uygulama* ISBN: 9789750261466 [<i href="#" class="fas fa-regular fa-link"></i>](https://www.seckin.com.tr/kitap/947987891)
